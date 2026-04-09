@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 🧑‍💻 student at uca
 - [![Icon of LinkedIn](https://img.shields.io/badge/My-Linkedin-blue
 )](https://uca.edu/geography/)
+
 -[Geography Department at UCA] (https://uca.edu/geography/)
