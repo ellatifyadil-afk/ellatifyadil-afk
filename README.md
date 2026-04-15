@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I use GIS to analyze real-world service demand and improve operations 🚗📍
 - 🎓 Geography student at UCA (GIS & Remote Sensing)
+- ## 🛠️ Skills
+- Python (GIS scripting, data analysis)
+- ArcGIS Pro (mapping, spatial analysis)
+- Remote Sensing (Landsat, raster data)
 - 💼 Operations Team Lead at DXC Technology (AAA/ Hyundai Motor America)
 - [![Icon of LinkedIn](https://img.shields.io/badge/My-Linkedin-blue
 )](https://uca.edu/geography/)
